@@ -58,8 +58,7 @@
                              Width="600"/>
 
                 <StackPanel Grid.Row="2" Grid.ColumnSpan="3"
-                            Orientation="Horizontal"
-                            HorizontalAlignment="Left">
+                            Orientation="Horizontal">
                     <Button Content="Войти"
                             Width="100"
                             Click="LoginButton_Click"/>
